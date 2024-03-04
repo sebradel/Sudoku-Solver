@@ -1,1 +1,1 @@
-
+Java program that solves a sudoku puzzle from a template, using recursive backtracking. Includes a basic GUI to input the template, and output the solved puzzle. Run the main program in your Java IDE of choice.
